@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 100vh;
+
+    background-image: url(moroccan-flower.png);
+}
+
+main {
+    padding: 1em;
+    max-width: 600px;
+    background-color: #FFFFFFAA;
+}
+
+h1 {
+    font-family: 'Sansita Swashed', sans-serif;
+}
